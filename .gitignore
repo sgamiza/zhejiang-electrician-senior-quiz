@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+
+# Local full notes for AI (not on GitHub)
+README.local.md
+README.LOCAL.md
+版本记录.md
